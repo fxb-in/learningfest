@@ -1,0 +1,17 @@
+#outside {
+    position: absolute;
+    background-color: #ffa500;
+    width: 200px;
+    height: 200px;
+    top: 5%;
+    left: 40%;
+  }
+  
+  #inside {
+    position: absolute;
+    background-color: darkslategray;
+    width: 90px;
+  height: 85px;
+  top: 25%;
+  left: 27%;
+  }
